@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Dubai:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plume+DaMa:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sansation+Light:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rotten:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Michroma:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-michroma: Michroma;
+  --font-dubai: Dubai;
+  --font-sansation-light: "Sansation Light";
+  --font-plume-dama: "Plume DaMa";
+  --font-comfortaa: Comfortaa;
+  --font-inter: Inter;
+  --font-rotten: Rotten;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-31xl: 50px;
+  --font-size-56xl: 75px;
+  --font-size-8xl: 27px;
+  --font-size-11xl: 30px;
+  --font-size-6xl: 25px;
+  --font-size-mini: 15px;
+  --font-size-smi: 13px;
+  --font-size-21xl: 40px;
+  --font-size-61xl: 80px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #1e1e1e;
+  --color-gray-200: rgba(255, 255, 255, 0.3);
+  --color-gray-300: rgba(0, 0, 0, 0.88);
+  --color-aliceblue: #d4e8ed;
+  --color-gainsboro: rgba(217, 217, 217, 0.3);
+
+  /* border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-31xl: 50px;
+  --br-21xl: 40px;
+}

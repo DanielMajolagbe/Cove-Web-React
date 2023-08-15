@@ -67,7 +67,7 @@ const GeneralLandingPage: FunctionComponent = () => {
           <div className={styles.writers}>WRITERS</div>
           <div className={styles.editors}>EDITORS</div>
           <div className={styles.animators}>aNIMATORS</div>
-          <div className={styles.legatPractitioners}>LEGAT PRACTITIONERS</div>
+          <div className={styles.legatPractitioners}>LEGAl PRACTITIONERS</div>
         </div>
       </div>
       <b className={styles.newsletter}>Newsletter</b>
